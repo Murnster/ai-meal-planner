@@ -42,7 +42,7 @@ source meals/bin/activate
 python main.py
 ```
 
-## Cron Job (Weekly on Sunday at 11:59 PM)
+## Cron Job (Weekly on Saturday at 11:59 PM)
 
 ```bash
 crontab -e
