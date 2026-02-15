@@ -1,6 +1,6 @@
 # AI Meal Planner
 
-A Raspberry Pi automation script that generates a personalized, zero-waste weekly meal plan using OpenAI GPT-4o and emails it to you every Sunday night.
+A Raspberry Pi automation script that generates a personalized, zero-waste weekly meal plan using OpenAI GPT-4o and emails it to you every Saturday night.
 
 ## Features
 
