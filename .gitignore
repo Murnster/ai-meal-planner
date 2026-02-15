@@ -1,0 +1,26 @@
+# Virtual environment
+meals/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Secrets & personal config
+.env
+config.json
+credentials.json
+secrets.json
+token.json
+
+# Logs
+cron.log
+
+# IDE
+.vscode/
+.idea/

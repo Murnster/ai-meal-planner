@@ -1,0 +1,17 @@
+{
+  "biometrics": {
+    "age": 30,
+    "gender": "male",
+    "height_cm": 175,
+    "current_weight_lbs": 180,
+    "activity_level": "moderately_active",
+    "goal_weight_lbs": 170,
+    "target_date": "2026-06-01"
+  },
+  "preferences": {
+    "locale": "en-US",
+    "dietary_blob": "No specific restrictions.",
+    "consistent_lunch": true
+  },
+  "email_recipient": "you@example.com"
+}
