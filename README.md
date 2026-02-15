@@ -58,4 +58,4 @@ Note: `* * * 6` = Saturday in cron (0=Sunday, 6=Saturday). If you want Sunday ni
 
 # Example Email Output
 
-[Example Markdown](https://github.com/Murnster/ai-meal-planner/EXAMPLE.md)
+[Example Markdown](https://github.com/Murnster/ai-meal-planner/blob/main/EXAMPLE.md)
